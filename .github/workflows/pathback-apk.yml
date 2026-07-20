@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Extract complete PathBack project
-        run: unzip -o PathBack-Visual-Anchor-v5.zip
+        run: unzip -o PathBack-Vertical-Exact-v6.zip
 
       - name: Install Java 17
         uses: actions/setup-java@v4
